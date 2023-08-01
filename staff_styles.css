@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(252, 245, 237);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    margin: 5rem 5rem 0rem 10rem;
+}
+
+li {
+   font-size: 1.2rem;
+}
